@@ -2,7 +2,7 @@
 This is a replica of Amazon's sign up page.
 
 ## Tools
-This was created with purely css and html.
+This was created with HTML, CSS and Vanilla Javascript.
 
 
 ## Author
